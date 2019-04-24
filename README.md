@@ -14,3 +14,4 @@ https://3quilibrium3.github.io/planv/
 Copyright MMXIX.
 All rights reserved.
 Content of this website is for informational purposes only.
+Subject to change without notice.
