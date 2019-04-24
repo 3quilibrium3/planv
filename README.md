@@ -11,7 +11,7 @@ https://3quilibrium3.github.io/planv/
 3quilibrium3@gmail.com
 
 ## Legal and Copyright
-Copyright MMXIX.
-All rights reserved.
-Content of this website is for informational purposes only.
+Copyright MMXIX.<br>
+All rights reserved.<br>
+Content of this website is for informational purposes only.<br>
 Subject to change without notice.
